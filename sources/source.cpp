@@ -5,5 +5,5 @@
 #include <stack.hpp>
 
 auto example() -> void {
-  
+
 }
